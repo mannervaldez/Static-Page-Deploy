@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.1ea8d7e6.css",
-    "main.js": "/static/js/main.7e97fd04.js",
-    "static/media/carrousel4.png": "/static/media/carrousel4.f53bd225121284abf5fd.png",
-    "static/media/carrousel5.png": "/static/media/carrousel5.12db97807bdc91ae489a.png",
-    "static/media/carrusel1.jpg": "/static/media/carrusel1.6b978c34afdbcab1938e.jpg",
-    "static/media/carrusel2.png": "/static/media/carrusel2.1d779ad2ff4620bb03f9.png",
-    "static/media/carrusel3.png": "/static/media/carrusel3.4cb4622af0441fd318eb.png",
-    "static/media/logotipoUnADM.jpg": "/static/media/logotipoUnADM.43c72d9d4559f815d176.jpg",
-    "index.html": "/index.html",
-    "main.1ea8d7e6.css.map": "/static/css/main.1ea8d7e6.css.map",
-    "main.7e97fd04.js.map": "/static/js/main.7e97fd04.js.map"
+    "main.css": "./static/css/main.89970a38.css",
+    "main.js": "./static/js/main.9cad4625.js",
+    "static/media/carrousel4.png": "./static/media/carrousel4.f53bd225121284abf5fd.png",
+    "static/media/carrousel5.png": "./static/media/carrousel5.12db97807bdc91ae489a.png",
+    "static/media/carrusel1.jpg": "./static/media/carrusel1.6b978c34afdbcab1938e.jpg",
+    "static/media/carrusel2.png": "./static/media/carrusel2.1d779ad2ff4620bb03f9.png",
+    "static/media/carrusel3.png": "./static/media/carrusel3.4cb4622af0441fd318eb.png",
+    "static/media/logotipoUnADM.jpg": "./static/media/logotipoUnADM.43c72d9d4559f815d176.jpg",
+    "index.html": "./index.html",
+    "main.89970a38.css.map": "./static/css/main.89970a38.css.map",
+    "main.9cad4625.js.map": "./static/js/main.9cad4625.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ea8d7e6.css",
-    "static/js/main.7e97fd04.js"
+    "static/css/main.89970a38.css",
+    "static/js/main.9cad4625.js"
   ]
 }
